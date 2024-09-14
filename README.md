@@ -7,4 +7,4 @@
 7. command to export username - export username=""
 8. command to export token - export token=""
 9. to exceute the file we need to give permission to the file, give permission using chmod 777 filename
-10. execute the file using this command - ./<<filename>> <<organisation-name>> <<repo-name>>
+10. execute the file using this command - ./filename organisation-name repo-name
